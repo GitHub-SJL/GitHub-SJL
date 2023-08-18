@@ -5,8 +5,8 @@ const Me = {
     pronouns : "he",
     code : [JavaScript],
     tools : {
-        front : [React, Nextjs,Swr,ReactHookForm, Axios],
-        style : [StyledComponents, Tailwind]
+        front : [React.js, React-Query],
+        style : [StyledComponents, Mui]
         },
     goals : Front End 😄
   }
